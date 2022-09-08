@@ -1,0 +1,9 @@
+@import './variables/variables';
+
+@import './base/estilosgenerales';
+@import './index';
+@import '../css/styles.css';
+
+// mediaqueris siempre al final
+@import './mediaqueries' 
+
